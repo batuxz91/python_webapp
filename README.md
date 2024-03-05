@@ -1,23 +1,66 @@
----
-title: Flask
-description: A popular minimal server framework for Python
-tags:
-  - python
-  - flask
----
+# Nombre de tu Aplicación
 
-# Python Flask Example
+Breve descripción de tu aplicación, qué problemas resuelve, y por qué alguien querría usarla.
 
-This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a simple JSON response.
+## Tecnologías Utilizadas
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
+- **Frontend**: Angular
+- **Backend**: Python con Flask
 
-## âœ¨ Features
+## Características
 
-- Python
-- Flask
+- Detalla las características principales de tu aplicación.
+- Cualquier funcionalidad única o punto de venta que diferencie tu aplicación.
 
-## ğŸ’â€â™€ï¸ How to use
+## Requisitos Previos
 
-- Install Python requirements `pip install -r requirements.txt`
-- Start the server for development `python3 main.py`
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
+- [Node.js y npm](https://nodejs.org/en/download/)
+- [Python](https://www.python.org/downloads/) y pip
+- [Angular CLI](https://angular.io/cli)
+
+## Instalación
+
+Instrucciones paso a paso para configurar el entorno de desarrollo y ejecutar la aplicación.
+
+### Backend
+
+bash
+# Clonar el repositorio
+git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tu-repositorio/backend
+
+# Instalar las dependencias
+pip install -r requirements.txt
+
+# Iniciar el servidor de desarrollo
+flask run
+
+### Frontend
+
+bash
+# Cambiar al directorio del frontend
+cd ../frontend
+
+# Instalar las dependencias
+npm install
+
+# Servir la aplicación
+ng serve
+
+# La aplicación estará disponible en http://localhost:4200
+
+Uso
+Descripción de cómo usar la aplicación, con ejemplos de comandos si es necesario.
+
+Contribuir
+Si estás interesado en ayudar a mejorar la aplicación, las contribuciones son bienvenidas. Por favor, lee CONTRIBUTING.md para detalles sobre nuestro código de conducta y el proceso para enviarnos pull requests.
+
+Licencia
+Este proyecto está bajo la Licencia (tu licencia aquí) - ver el archivo LICENSE.md para detalles.
+
+Contacto
+Tu Nombre - @TuTwitter - email@example.com
+
+Link del proyecto: https://github.com/tu-usuario/tu-repositorio
+
