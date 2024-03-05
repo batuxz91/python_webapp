@@ -50,17 +50,18 @@ ng serve
 
 # La aplicación estará disponible en http://localhost:4200
 
-Uso
+# Uso
 Descripción de cómo usar la aplicación, con ejemplos de comandos si es necesario.
 
-Contribuir
+# Contribuir
 Si estás interesado en ayudar a mejorar la aplicación, las contribuciones son bienvenidas. Por favor, lee CONTRIBUTING.md para detalles sobre nuestro código de conducta y el proceso para enviarnos pull requests.
 
-Licencia
+# Licencia
 Este proyecto está bajo la Licencia (tu licencia aquí) - ver el archivo LICENSE.md para detalles.
 
-Contacto
+# Contacto
 Tu Nombre - @TuTwitter - email@example.com
 
-Link del proyecto: https://github.com/tu-usuario/tu-repositorio
+# Link del proyecto: 
+https://github.com/tu-usuario/tu-repositorio
 
